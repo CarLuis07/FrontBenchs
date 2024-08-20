@@ -1,13 +1,13 @@
 @extends('adminlte::page')
 
-@section('title', 'Dashboard')
+@section('title', 'Analisis')
 
 @section('content_header')
-    <h1>rendimientos</h1>
+    <h1>Analisis de Desempeño</h1>
 @stop
 
 @section('content')
-    <p>Pagina principal de rendimientos</p>
+
 @stop
 
 @section('css')
